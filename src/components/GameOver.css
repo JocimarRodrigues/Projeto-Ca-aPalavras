@@ -1,0 +1,14 @@
+.titleGameOver {
+    color: rgb(0, 255, 128);
+}
+
+.buttonGameOver {
+    position: relative;
+    top: 70px;
+    right: 140px;
+}
+
+.spanGameOver {
+   position: relative;
+   left: 160px;
+}
