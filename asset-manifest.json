@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Teste/static/css/main.82cb0918.css",
-    "main.js": "/Teste/static/js/main.713cf705.js",
-    "static/js/787.4243870a.chunk.js": "/Teste/static/js/787.4243870a.chunk.js",
-    "static/media/Background.png": "/Teste/static/media/Background.25992aa3570a698d6832.png",
-    "index.html": "/Teste/index.html",
-    "main.82cb0918.css.map": "/Teste/static/css/main.82cb0918.css.map",
-    "main.713cf705.js.map": "/Teste/static/js/main.713cf705.js.map",
-    "787.4243870a.chunk.js.map": "/Teste/static/js/787.4243870a.chunk.js.map"
+    "main.css": "/Projeto-Caca-Palavras/static/css/main.eebf66fa.css",
+    "main.js": "/Projeto-Caca-Palavras/static/js/main.9e7fc698.js",
+    "static/js/787.4243870a.chunk.js": "/Projeto-Caca-Palavras/static/js/787.4243870a.chunk.js",
+    "static/media/Background.png": "/Projeto-Caca-Palavras/static/media/Background.25992aa3570a698d6832.png",
+    "index.html": "/Projeto-Caca-Palavras/index.html",
+    "main.eebf66fa.css.map": "/Projeto-Caca-Palavras/static/css/main.eebf66fa.css.map",
+    "main.9e7fc698.js.map": "/Projeto-Caca-Palavras/static/js/main.9e7fc698.js.map",
+    "787.4243870a.chunk.js.map": "/Projeto-Caca-Palavras/static/js/787.4243870a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82cb0918.css",
-    "static/js/main.713cf705.js"
+    "static/css/main.eebf66fa.css",
+    "static/js/main.9e7fc698.js"
   ]
 }
