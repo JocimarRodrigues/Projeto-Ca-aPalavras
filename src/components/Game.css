@@ -47,3 +47,26 @@
     text-align: center;
     margin-right: 1em;
 }
+
+@media screen and (max-width: 480px) {
+    .wordContainer {
+        display: inline-block;
+        width: 70%;
+    }
+
+    .blankSquare{
+        display: inline-block;
+        height: 50px;
+        width: 70%;
+    }
+
+    .letter {
+        display: inline-block;
+        width: 100%;
+    }
+
+    .tip span {
+        height: 100%;
+        width: 100%;
+    }
+}

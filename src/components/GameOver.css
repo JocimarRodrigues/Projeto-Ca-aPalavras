@@ -6,9 +6,24 @@
     position: relative;
     top: 70px;
     right: 140px;
+    
 }
 
 .spanGameOver {
    position: relative;
    left: 160px;
+}
+
+@media screen and (max-width: 480px) {
+    .buttonGameOver {
+        display: inline-block;
+        right: 10px;
+    }
+
+    .spanGameOver {
+        display: inline-block;
+        left: 10px;
+        top: 15px;
+    }
+
 }

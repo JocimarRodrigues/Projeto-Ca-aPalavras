@@ -1,5 +1,6 @@
 html, body {
   height: 100%;
+  width: 100%;
 }
 
 body {
@@ -10,6 +11,7 @@ body {
   background-image: url(../public/Background.png);
   background-repeat: no-repeat;
   background-size: cover 100%;
+
   
 }
 
