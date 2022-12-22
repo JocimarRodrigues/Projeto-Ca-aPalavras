@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Projeto-Caca-Palavras/static/css/main.eebf66fa.css",
+    "main.css": "/Projeto-Caca-Palavras/static/css/main.823a56d4.css",
     "main.js": "/Projeto-Caca-Palavras/static/js/main.9e7fc698.js",
     "static/js/787.4243870a.chunk.js": "/Projeto-Caca-Palavras/static/js/787.4243870a.chunk.js",
     "static/media/Background.png": "/Projeto-Caca-Palavras/static/media/Background.25992aa3570a698d6832.png",
     "index.html": "/Projeto-Caca-Palavras/index.html",
-    "main.eebf66fa.css.map": "/Projeto-Caca-Palavras/static/css/main.eebf66fa.css.map",
+    "main.823a56d4.css.map": "/Projeto-Caca-Palavras/static/css/main.823a56d4.css.map",
     "main.9e7fc698.js.map": "/Projeto-Caca-Palavras/static/js/main.9e7fc698.js.map",
     "787.4243870a.chunk.js.map": "/Projeto-Caca-Palavras/static/js/787.4243870a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eebf66fa.css",
+    "static/css/main.823a56d4.css",
     "static/js/main.9e7fc698.js"
   ]
 }
